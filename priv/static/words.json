@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "word": "Ami",
+      "answer": "Un compagnon fidèle.",
+      "choices": [
+        "Un inconnu croisé par hasard.",
+        "Un compagnon fidèle.",
+        "Une personne qui critique souvent."
+      ],
+      "solution": "L'ami est une personne avec qui on partage des moments et une relation d'affection."
+    },
+    {
+      "word": "Attention",
+      "answer": "La concentration sur un sujet précis.",
+      "choices": [
+        "Une sensation de joie.",
+        "La concentration sur un sujet précis.",
+        "Un état de colère intense."
+      ],
+      "solution": "L'attention est essentielle pour bien écouter ou apprendre."
+    },
+    {
+      "word": "Camarade",
+      "answer": "Un partenaire dans un groupe.",
+      "choices": [
+        "Un partenaire dans un groupe.",
+        "Une personne qui donne des ordres.",
+        "Un individu solitaire."
+      ],
+      "solution": "Le camarade partage souvent des activités ou des objectifs communs."
+    },
+    {
+      "word": "Colère",
+      "answer": "Une forte émotion de mécontentement.",
+      "choices": [
+        "Une forte émotion de mécontentement.",
+        "Un sentiment de calme intérieur.",
+        "Un moment de réflexion paisible."
+      ],
+      "solution": "La colère peut survenir lorsque les choses ne se passent pas comme prévu."
+    },
+    {
+      "word": "Copain",
+      "answer": "Un ami proche.",
+      "choices": [
+        "Un étranger bienveillant.",
+        "Un ami proche.",
+        "Une figure d'autorité."
+      ],
+      "solution": "Un copain est souvent une personne avec qui on partage des loisirs."
+    },
+    {
+      "word": "Coquin",
+      "answer": "Quelqu'un d'espiègle.",
+      "choices": [
+        "Quelqu'un d'espiègle.",
+        "Une personne stricte.",
+        "Un individu en colère."
+      ],
+      "solution": "Un coquin aime taquiner et jouer des tours de manière ludique."
+    },
+    {
+      "word": "Dame",
+      "answer": "Une femme adulte.",
+      "choices": [
+        "Un homme d'un certain âge.",
+        "Une femme adulte.",
+        "Un jeune enfant."
+      ],
+      "solution": "Le terme 'dame' est souvent employé avec respect pour une femme."
+    },
+    {
+      "word": "Directeur",
+      "answer": "Le responsable d'une organisation.",
+      "choices": [
+        "Le responsable d'une organisation.",
+        "Un élève modèle.",
+        "Un agent de sécurité."
+      ],
+      "solution": "Le directeur veille au bon fonctionnement de l'école ou de l'entreprise."
+    },
+    {
+      "word": "Effort",
+      "answer": "L'énergie pour atteindre un objectif.",
+      "choices": [
+        "Une période de repos.",
+        "L'énergie pour atteindre un objectif.",
+        "Une activité sans but précis."
+      ],
+      "solution": "Faire un effort est nécessaire pour accomplir des tâches difficiles."
+    },
+    {
+      "word": "Mensonge",
+      "answer": "Une déclaration contraire à la vérité.",
+      "choices": [
+        "Une déclaration contraire à la vérité.",
+        "Un fait avéré.",
+        "Une expression de sincérité."
+      ],
+      "solution": "Un mensonge peut être dit pour cacher la réalité ou tromper."
+    }
+  ]
+}
